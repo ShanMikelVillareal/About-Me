@@ -1,0 +1,5 @@
+print("My name is Shan Mikel Villareal.")
+print("I am currently taking BS EcE in my Second Year here in Ateneo.")
+print("I really love Math that is why I took this course.")
+print("I often play video games with my friends.")
+print("Especially League of Legends and Valorant.")
